@@ -1,7 +1,17 @@
 .App {
   text-align: center;
-}
 
+}
+.createInput {
+  text-align: center;
+
+}
+body {
+  background-color: #282c34!important;
+}
+.w-65 {
+  width: 65% !important;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
