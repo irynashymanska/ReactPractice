@@ -144,7 +144,7 @@ function TodoList() {
                     
                 
                   </div>
-        <div  className="col-md-5">
+        <div  className="col-md-5 mb-3">
                     <p className="form-check align-middle p-1">
                         <input className="form-check-input" type="checkbox"
                             checked={todo.completed}
