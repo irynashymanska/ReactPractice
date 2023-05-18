@@ -12,7 +12,7 @@ function WidgetMenu() {
   const [city, setCity] = useState('London'); 
   const [weather, setWeather] = useState(null); 
 
-  const apiKey = '5d85073d6cbc40e01694ce3ca0041dc3'; 
+  const apiKey = '5179f0ae9c01dbc5f91f3eabaaa6e8ef'; 
   useEffect(() => {
     const getWeather = async () => {
       try {
